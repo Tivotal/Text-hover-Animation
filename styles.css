@@ -19,7 +19,7 @@ body {
 }
 
 .text {
-  font-size: clamp(2rem, calc(2rem + 3.5rem), 8rem);
+  font-size: clamp(2rem, calc(2rem + 3.5vw), 8rem);
   color: #999;
   user-select: none;
 }
